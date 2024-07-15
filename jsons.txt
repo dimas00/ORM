@@ -1,0 +1,23 @@
+{
+  "produto": {
+    "id": 1
+  },
+  "usuario": {
+    "id": 1
+  },
+  "quantidade": 10
+
+}
+
+
+
+{
+  "nome": "Notebook",
+  "preco": 3500.00
+}
+
+{
+  "nome": "Dimas Fernandes",
+  "email": "Dimas.silva@example.com",
+  "senha":"123"
+}
